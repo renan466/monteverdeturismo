@@ -70,4 +70,3 @@
 <footer>
     <p>© 2025 Monte Verde Gestão & Multimídia. Todos os direitos reservados.</p>
 </footer>
-
